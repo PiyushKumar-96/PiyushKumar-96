@@ -21,7 +21,7 @@
     <animate attributeName="x" values="-190;1000" dur="7s" repeatCount="indefinite"/>
   </rect>
   <g font-family="Georgia,DejaVu Serif,serif">
-    <text x="46" y="46" font-size="13" letter-spacing="2.5" fill="#CFC7EE">6 contributions in the last year</text>
+    <text x="46" y="46" font-size="13" letter-spacing="2.5" fill="#CFC7EE">7 contributions in the last year</text>
     <g opacity="0">
       <rect x="46" y="74" width="13" height="13" rx="3" fill="#150E29"/>
       <rect x="46" y="91" width="13" height="13" rx="3" fill="#150E29"/>
