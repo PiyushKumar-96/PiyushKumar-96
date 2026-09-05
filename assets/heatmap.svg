@@ -21,7 +21,7 @@
     <animate attributeName="x" values="-190;1000" dur="7s" repeatCount="indefinite"/>
   </rect>
   <g font-family="Georgia,DejaVu Serif,serif">
-    <text x="46" y="46" font-size="13" letter-spacing="2.5" fill="#CFC7EE">5 contributions in the last year</text>
+    <text x="46" y="46" font-size="13" letter-spacing="2.5" fill="#CFC7EE">6 contributions in the last year</text>
     <g opacity="0">
       <rect x="46" y="74" width="13" height="13" rx="3" fill="#150E29"/>
       <rect x="46" y="91" width="13" height="13" rx="3" fill="#150E29"/>
@@ -497,7 +497,7 @@
       <rect x="845" y="91" width="13" height="13" rx="3" fill="#150E29"/>
       <rect x="845" y="108" width="13" height="13" rx="3" fill="#150E29"/>
       <rect x="845" y="125" width="13" height="13" rx="3" fill="#150E29"/>
-      <rect x="845" y="142" width="13" height="13" rx="3" fill="#5B34A8"/>
+      <rect x="845" y="142" width="13" height="13" rx="3" fill="#33215C"/>
       <rect x="845" y="159" width="13" height="13" rx="3" fill="#150E29"/>
       <rect x="845" y="176" width="13" height="13" rx="3" fill="#150E29"/>
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.406;0.456;0.95;1" dur="12s" repeatCount="indefinite"/>
