@@ -28,15 +28,17 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="330" alt="coffee while working" />
 
-Somewhere in Delhi there's a room with the lights off and one monitor on. That's usually me, teaching machines to notice things — hazards in a camera feed, an attack hidden in a prompt, a pattern nobody asked about.
+I'm Piyush, a developer who likes building things and figuring out how they work.
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="18" /> &nbsp; AI systems, mostly the security and vision kind
+I work mostly with AI, backend systems, security and computer vision. I enjoy taking an idea, building it, breaking it a few times, and slowly making it better.
 
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="18" /> &nbsp; happiest when something runs faster than it has any right to
+🔥 currently building and learning around AI
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="18" /> &nbsp; will happily talk about lo-fi, latency, or why your regex is haunted
+🚀 like making things faster when possible
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="18" /> &nbsp; if it's stupid but it works, it isn't stupid
+💻 spend a lot of time figuring out why something isn't working
+
+🎯 care about both how software works and how it feels to use
 
 <br clear="right"/>
 
@@ -50,17 +52,17 @@ Somewhere in Delhi there's a room with the lights off and one monitor on. That's
 
 <br/>
 
-## things i've conjured
+## things i've built
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-**IronGuard** — a bouncer for language models. It reads every prompt before your model does and throws out the ones carrying knives: injections, jailbreaks, leaked PII. Went from catching 64% of attacks to 84.8%, and from a 13-second wait to 372 milliseconds.
+**IronGuard** — started as an idea around making AI systems a little harder to mess with. It checks prompts for things like injections, jailbreaks and leaked PII before they reach the model. Eventually got detection from 64% to 84.8% and brought the response time down from 13 seconds to 372ms.
 
-**VisionX** — spots dangerous objects in a video feed fast enough to matter, on hardware that shouldn't be able to. 93% accuracy, under 100ms, first place at a national hackathon while running on fumes.
+**VisionX** — built to spot dangerous objects in a live video feed without needing powerful hardware. Ended up hitting 93% accuracy, running under 100ms, and winning first place at a national hackathon.
 
-**ResumeSnap** — reads a resume the way a tired recruiter wishes they could, then ranks it against the job. Fifteen minutes of squinting becomes ten seconds.
+**ResumeSnap** — because going through resumes manually is painful. It reads a resume, compares it with the job requirements and helps rank candidates much faster.
 
 </td>
 <td width="42%" valign="top">
@@ -150,11 +152,12 @@ Somewhere in Delhi there's a room with the lights off and one monitor on. That's
 <tr>
 <td width="52%" valign="top">
 
-- explains bugs out loud to nobody, finds them mid-sentence
-- has never once closed a browser tab voluntarily
-- writes the commit message before the code more often than is healthy
-- believes every project deserves one unreasonably nice animation
-- sleeps. eventually. usually.
+- spends more time thinking about a problem than actually writing the code
+- opens a browser tab for "later" and never sees it again
+- likes clean and simple code, but will spend an unreasonable amount of time on the UI
+- trusts AI with the code, then immediately starts checking what it did
+- says "this should be easy" right before something takes three hours
+- probably working on something at a time when I should be sleeping
 
 </td>
 <td width="48%" valign="top">
